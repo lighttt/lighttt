@@ -1,8 +1,8 @@
-### Welcome, Manish Tuladhar at your service! 👋
+### Welcome, Manish Tuladhar at your service! 😊👋
 
 I'm a mobile application developer and tutor.
 
-- 🔭 I’m currently working as Android/Flutter Developer
+- 💻 I’m currently working as Android/Flutter Developer
 - 📚 I’m also teaching students to learn Android/Flutter app development
 - 🌱 I’m currently learning to create Modern and Beautiful UI/UX Design
 - 👯 I’m looking to collaborate with various projects
