@@ -1,8 +1,5 @@
 ### Welcome, Manish Tuladhar at your service! 👋
 
-[<img align="left" width="600px" src="https://raw.githubusercontent.com/lighttt/lighttt/main/icon/banner.png" />][website]
-
-### About me:
 I'm a mobile application developer and tutor.
 
 - 🔭 I’m currently working as Android/Flutter Developer
