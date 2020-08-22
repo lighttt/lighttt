@@ -1,6 +1,6 @@
-# Header
-[<img align="center" width="600px" src="https://raw.githubusercontent.com/lighttt/lighttt/main/icon/banner.png" />]
-[website]
+### Header
+[<img align="center" width="600px" src="https://raw.githubusercontent.com/lighttt/lighttt/main/icon/banner.png" />][website]
+
 
 ### Welcome, Manish Tuladhar at your service! 👋
 
