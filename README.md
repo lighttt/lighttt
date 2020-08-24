@@ -1,4 +1,6 @@
-### Welcome, Manish Tuladhar at your service! 😊👋
+### Welcome, fellow coders! 😊👋
+
+[![Hi I am Manish](./icons/banner.jpg)](https://www.manishtuladhar.com.np)
 
 I'm a mobile application developer and tutor.
 
