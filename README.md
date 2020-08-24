@@ -1,8 +1,8 @@
-### Welcome, Manish Tuladhar at your service! 👋
+### Welcome, Manish Tuladhar at your service! 😊👋
 
 I'm a mobile application developer and tutor.
 
-- 🔭 I’m currently working as Android/Flutter Developer
+- 💻 I’m currently working as Android/Flutter Developer
 - 📚 I’m also teaching students to learn Android/Flutter app development
 - 🌱 I’m currently learning to create Modern and Beautiful UI/UX Design
 - 👯 I’m looking to collaborate with various projects
@@ -11,10 +11,10 @@ I'm a mobile application developer and tutor.
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="My Website" width="22px" src="https://image.flaticon.com/icons/svg/814/814513.svg" />][website]
+[<img align="left" alt="YouTube" width="22px" src="https://image.flaticon.com/icons/svg/733/733590.svg" />][youtube]
+[<img align="left" alt="Twitter" width="22px" src="https://image.flaticon.com/icons/svg/733/733579.svg" />][twitter]
+[<img align="left" alt="LinkedIn" width="22px" src="https://image.flaticon.com/icons/svg/174/174857.svg" />][linkedin]
 
 <br />
 
