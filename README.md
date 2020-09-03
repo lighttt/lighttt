@@ -1,6 +1,6 @@
 ### Welcome, fellow coders! 😊👋
 
-![Hi I am Manish](https://raw.githubusercontent.com/lighttt/lighttt/master/icons/banner2.png)
+[![Hi I am Manish](https://raw.githubusercontent.com/lighttt/lighttt/master/icons/banner2.png)][website]
 
 
 ### I'm a mobile application developer and tutor.
