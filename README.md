@@ -11,6 +11,10 @@
 - 💬 Please feel free to ask me about the mobile world
 - ⚡ Fun fact: I love travelling and find myself watching anime and series
 
+[Manish's Github stats](https://github-readme-stats.vercel.app/api?username=lighttt&show_icons=true&count_private=true&theme=radical)
+
+![Manish's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lighttt&layout=compact&theme=radical)
+
 ### Connect with me:
 
 [<img align="left" alt="My Website" width="22px" src="https://image.flaticon.com/icons/svg/814/814513.svg" />][website]
