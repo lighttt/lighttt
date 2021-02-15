@@ -7,9 +7,6 @@
 
 - 💻 I’m currently working with [Leapfrog Technology](https://www.lftechnology.com/)!
 - 📚 I’m also teaching students to learn Android/Flutter app development
-- 🌱 I’m currently learning to ReactJS and Flutter
-- 💬 Please feel free to ask me about the mobile world
-- ⚡ Fun fact: I love travelling and find myself watching anime and series
 
 ![Manish's Github stats](https://github-readme-stats.vercel.app/api?username=lighttt&show_icons=true&count_private=true&theme=radical)
 
