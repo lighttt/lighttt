@@ -14,10 +14,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="My Website" width="22px" src="https://image.flaticon.com/icons/svg/814/814513.svg" />][website]
-[<img align="left" alt="YouTube" width="22px" src="https://image.flaticon.com/icons/svg/733/733590.svg" />][youtube]
-[<img align="left" alt="Twitter" width="22px" src="https://image.flaticon.com/icons/svg/733/733579.svg" />][twitter]
-[<img align="left" alt="LinkedIn" width="22px" src="https://image.flaticon.com/icons/svg/174/174857.svg" />][linkedin]
+[<img align="left" alt="My Website" width="22px" src="https://cdn-icons.flaticon.com/png/512/1927/premium/1927768.png?token=exp=1637048146~hmac=81ec6767610db126e09c2416f3fd038d" />][website]
+[<img align="left" alt="YouTube" width="22px" src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504848.png?token=exp=1637048068~hmac=ba667317b236b3efb533aa580f0f7738" />][youtube]
+[<img align="left" alt="Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/145/145812.png" />][twitter]
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
 
 <br />
 
