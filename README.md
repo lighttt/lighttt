@@ -6,6 +6,7 @@
 ### I'm a mobile application developer and tutor.
 
 - 💻   I’m currently working with [Leapfrog Technology](https://www.lftechnology.com/) as Senior Software Engineer!
+- 🐦   I’m am also an active member of the [Flutter Community](https://flutter.dev/community/)!
 - 📚   I’m am also a tutor teaching Android/Flutter App Development in [IIT Nepal](https://iitnepal.edu.np/)!
 
 ![Manish's Github stats](https://github-readme-stats.vercel.app/api?username=lighttt&show_icons=true&count_private=true&theme=algolia)
@@ -22,6 +23,6 @@
 <br />
 
 [website]: http://manishtuladhar.com.np/
-[twitter]: https://twitter.com/tuladharmanish
-[youtube]: https://www.youtube.com/channel/UCCbLqylFdbo8WjYU9W6iFJw
+[twitter]: https://lighttt.github.io/manishtuladhar/
+[youtube]: https://www.youtube.com/@manishtuladhar
 [linkedin]: https://www.linkedin.com/in/tuladharmanishlight/
