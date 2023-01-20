@@ -17,12 +17,10 @@
 
 [<img align="left" alt="My Website" width="22px" src="https://toppng.com/uploads/preview/web-png-jpg-transparent-stock-website-icon-blue-11563644926reanjnmk6x.png" />][website]
 [<img align="left" alt="YouTube" width="22px" src="https://toppng.com/uploads/preview/youtube-icon-logo-transparent-youtube-11553542027nec8a4iwhh.png" />][youtube]
-[<img align="left" alt="Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/145/145812.png" />][twitter]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
 
 <br />
 
-[website]: http://manishtuladhar.com.np/
-[twitter]: https://lighttt.github.io/manishtuladhar/
+[website]: https://lighttt.github.io/manishtuladhar/
 [youtube]: https://www.youtube.com/@manishtuladhar
 [linkedin]: https://www.linkedin.com/in/tuladharmanishlight/
